@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Raleway";
+  src: url(/fonts/Raleway/static/Raleway-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url(/fonts/Raleway/static/Raleway-Medium.ttf);
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url(/fonts/Raleway/static/Raleway-SemiBold.ttf);
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url(/fonts/Raleway/static/Raleway-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url(/fonts/Raleway/static/Raleway-ExtraBold.ttf);
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(/fonts/Montserrat/Montserrat-ExtraLight.ttf);
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(/fonts/Montserrat/Montserrat-Light.ttf);
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(/fonts/Montserrat/Montserrat-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url(/fonts/Roboto/Roboto-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
