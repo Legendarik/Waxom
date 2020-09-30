@@ -264,7 +264,7 @@ h2 {
   font-size: 18px;
 }
 .partners {
-  background: url(img/photo-partners.jpg) center no-repeat;
+  background: url(img/photo-partners.webp) center no-repeat;
   background-size: cover;
 }
 .partners img {
@@ -328,7 +328,7 @@ h2 {
   top: 35%;
   left: 40%;
   margin: -14px 0 0 -10px;
-  background: url(img/link.png);
+  background: url(img/link.webp);
 }
 .project:hover .image-lupa {
   position: absolute;
@@ -337,13 +337,13 @@ h2 {
   top: 35%;
   left: 60%;
   margin: -14px 0 0 -10px;
-  background: url(img/lupa.png);
+  background: url(img/lupa.webp);
 }
 .project:hover .image-link:hover {
-  background: url(img/link-hover.png);
+  background: url(img/link-hover.webp);
 }
 .project:hover .image-lupa:hover {
-  background: url(img/lupa-hover.png);
+  background: url(img/lupa-hover.webp);
 }
 .latest-projects .btn {
   display: block;
@@ -354,7 +354,7 @@ h2 {
 
 .efmd li {
   list-style-type: none;
-  list-style-image: url(img/image-li.png);
+  list-style-image: url(img/image-li.webp);
 }
 
 /* counters */
